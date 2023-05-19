@@ -1,7 +1,7 @@
 
 # Linux Agent Docker Image
 
-IMPORTANT: This code is completely stolen form https://github.com/Azure/terraform-azurerm-aci-devops-agent
+IMPORTANT: This code is completely stolen from https://github.com/Azure/terraform-azurerm-aci-devops-agent
 
 This image is based on the [official documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure-devops#linux).
 
