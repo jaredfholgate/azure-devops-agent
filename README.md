@@ -10,7 +10,7 @@ This image is based on the [official documentation](https://docs.microsoft.com/e
 ## Build it
 
 ```bash
-docker built -t YOUR_IMAGE_NAME:YOUR_IMAGE_TAG .
+docker build -t YOUR_IMAGE_NAME:YOUR_IMAGE_TAG .
 ```
 
 ## Push it
