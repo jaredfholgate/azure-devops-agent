@@ -16,7 +16,8 @@ RUN apt-get update \
         libunwind8 \
         netcat \
         ruby \
-        unzip
+        unzip \
+        dnsutils
 
 RUN curl -sL https://aka.ms/InstallAzureCLIDeb | bash
 
