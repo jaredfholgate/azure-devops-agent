@@ -19,4 +19,4 @@ docker build -t YOUR_IMAGE_NAME:YOUR_IMAGE_TAG .
 docker push YOUR_IMAGE_NAME:YOUR_IMAGE_TAG
 ```
 
-sdsdfsd
+trigger synchronise
