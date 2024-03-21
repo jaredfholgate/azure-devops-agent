@@ -1,3 +1,5 @@
+**This repository is now archived and moved to https://github.com/Azure/terraform-azurerm-avm-ptn-cicd-agents-and-runners**
+
 # Linux Azure DevOps Agent Docker Image
 
 IMPORTANT: This code is completely stolen from https://github.com/Azure/terraform-azurerm-aci-devops-agent
